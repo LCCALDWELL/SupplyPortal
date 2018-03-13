@@ -1,0 +1,111 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color:royalblue;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 80%;
+    min-width:1200px;
+}
+
+h1 {
+    font-size:2.7em;
+    text-align:center;
+}
+
+.banner {
+    background-color:whitesmoke;
+    padding-top:30px;
+    border-bottom:5px solid darkblue;
+}
+
+.content {
+    background-color:whitesmoke;
+    height:800px;
+    min-width:1000px;
+}
+
+.deleteinputtable {
+    display:block;
+    width:350px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:22px;
+}
+
+.inputPanel {
+    display:block;
+    height: 180px;
+    width: 100%;
+    padding-top:35px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.inputtables {
+    display:block;
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.gridview1 {
+    width:760px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.optionTabs {
+    background-color: royalblue;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding:10px;
+    margin: 0;
+    width: 150px;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+}
+
+.optionTabs:hover {
+    background-color: darkblue;
+}
+
+.optionTabs:active {
+    
+}
+
+.resultlabel {
+    display:block;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    font-weight:bold;
+    text-align:center;
+    padding-top:20px;
+}
+
+.tab {
+    margin-left:5px;
+}
+
+.tablenamelabel {
+    display:block;
+    width:25%;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:28px;
+    font-weight:bold;
+    text-align:center;
+    padding-bottom:25px;
+}
+
+.textbox {
+    font-size: 18px;
+    text-align: center;
+}
+
